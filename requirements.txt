@@ -1,29 +1,28 @@
-# pandas
-# numpy
-# matplotlib
-# plotly
-# seaborn
-# scipy
-# scikit-learn
-# imblearn
-# xgboost
-# catboost
-# numpy==1.23.5
-# catboost==1.2
-# scikit-learn==1.2.2
-# xgboost==1.6.2
-
-#pymongo
-# from_root
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+imblearn
+xgboost
+catboost
+numpy==1.23.5
+catboost==1.2
+scikit-learn==1.2.2
+xgboost==1.6.2
+pymongo
+from_root
 evidently
 dill
 PyYAML
-# neuro_mf
-# boto3
-# mypy-boto3-s3
-# botocore
-# fastapi
-# uvicorn
-# jinja2
-# python-multipart
-#-e .
+neuro_mf
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
+# -e .
