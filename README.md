@@ -4,7 +4,7 @@
 
 This is a client-based project developed at **i-Neuron** where I actively participated as part of the team. The project leverages advanced machine learning techniques to predict US visa approvals. It is designed to assist stakeholders in making informed decisions by providing reliable visa prediction outcomes.
 
-## Media Gallery
+## Media
 
 - **ScreenShot**  
   ![Web InterFace](assets/image/project_overview_image.png)
