@@ -6,14 +6,12 @@ This is a client-based project developed at **i-Neuron** where I actively partic
 
 ## Media Gallery
 
-- **Project Overview:**  
-  ![Project Overview](assets/image/project_overview_image.png)
+- **ScreenShot**  
+  ![Web InterFace](assets/image/project_overview_image.png)
 
-- **Demo Video:**  
-  <video controls width="640">
-    <source src="assets/video/project_demo_video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+- ## Demo Video
+
+Please [click here to view the demo video](assets/video/project_demo_video.mp4).
 
 ## MLOps Architecture Flowcharts
 
