@@ -1,24 +1,49 @@
 # US-Visa-Approval-Prediction
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 ## About the Project
 
-This is a client-based project developed at **i-neuron** where I actively participated as part of the team. The project leverages advanced machine learning techniques to predict US visa approvals. It is designed to assist stakeholders in making informed decisions by providing reliable visa prediction outcomes.
+This is a client-based project developed at **i-Neuron** where I actively participated as part of the team. The project leverages advanced machine learning techniques to predict US visa approvals. It is designed to assist stakeholders in making informed decisions by providing reliable visa prediction outcomes.The documentation below details the setup, workflow, and AWS CICD deployment using GitHub Actions.
 
 ## Media Gallery
 
 - **Project Overview:**  
-  ![Project Overview](path/to/project_overview_image.png)  
+  ![Project Overview](assets/image/project_overview_image.png)  
   
 
 - **Demo Video:**  
-  [![Project Demo](path/to/project_demo_thumbnail.png)](path/to/project_demo_video.mp4)  
+  [![Project Demo](assets/image/project_overview_image.png)](assets/video/project_demo_video.mp4)  
+  *Click the thumbnail to watch the project demo video.*
+
   
 
-- **MLOps Architecture:**  
-  ![MLOps Architecture](path/to/mlops_architecture.png)  
-  
+## MLOps Architecture Flowcharts
+
+The following flowcharts represent each component of our MLOps architecture.
+
+### Component 1: Data Ingestion
+![Data Ingestion](assets/flowchart/Data Ingestion.png)  
+*Diagram showing the data ingestion process.*
+
+### Component 2: Data Transformation
+![Data Processing](assets/flowchart/Data Transformation.png)  
+*Diagram outlining the data Transformation workflow.*
+
+### Component 3: Data Validation
+![Model Training](assets/flowchart/Data Validation.png)  
+*Diagram showing the Data validation process.*
+
+### Component 4: Model Evaluation
+![Model Deployment](assets/flowchart/Model Evaluation.png)  
+*Diagram illustrating the model evaluation workflow*
+
+### Component 5: Model Pusher
+![Monitoring & Feedback](assets/flowchart/Model Pusher.png)  
+*Diagram showing the model pusher process*
+
+### Component 6: Model Trainer
+![Monitoring & Feedback](assets/flowchart/Model Trainer.png)  
+*Diagram illustrating the model training workflow*
+
 
 ## Table of Contents
 
