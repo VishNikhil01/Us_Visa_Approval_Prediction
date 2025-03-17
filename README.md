@@ -2,12 +2,12 @@
 
 ## About the Project
 
-This is a client-based project developed at **i-Neuron** where I actively participated as part of the team. The project leverages advanced machine learning techniques to predict US visa approvals. It is designed to assist stakeholders in making informed decisions by providing reliable visa prediction outcomes. The documentation below details the setup, workflow, and AWS CICD deployment using GitHub Actions.
+This is a client-based project developed at **i-Neuron** where I actively participated as part of the team. The project leverages advanced machine learning techniques to predict US visa approvals. It is designed to assist stakeholders in making informed decisions by providing reliable visa prediction outcomes.
 
 ## Media Gallery
 
 - **Project Overview:**  
-  ![Project Overview](assets/image/project_overview_image.png)  
+  ![Project Overview](assets/image/project_overview_image.png)
 
 - **Demo Video:**  
   <video controls width="640">
@@ -20,29 +20,28 @@ This is a client-based project developed at **i-Neuron** where I actively partic
 The following flowcharts represent each component of our MLOps architecture.
 
 ### Component 1: Data Ingestion
-![Data Ingestion](assets/flowchart/Data Ingestion.png)  
+![Data Ingestion](assets/flowchart/Data%20Ingestion.png)  
 *Diagram showing the data ingestion process.*
 
 ### Component 2: Data Transformation
-![Data Transformation](assets/flowchart/Data Transformation.png)  
+![Data Transformation](assets/flowchart/Data%20Transformation.png)  
 *Diagram outlining the data transformation workflow.*
 
 ### Component 3: Data Validation
-![Data Validation](assets/flowchart/Data Validation.png)  
+![Data Validation](assets/flowchart/Data%20Validation.png)  
 *Diagram showing the data validation process.*
 
 ### Component 4: Model Evaluation
-![Model Evaluation](assets/flowchart/Model Evaluation.png)  
+![Model Evaluation](assets/flowchart/Model%20Evaluation.png)  
 *Diagram illustrating the model evaluation workflow.*
 
 ### Component 5: Model Pusher
-![Model Pusher](assets/flowchart/Model Pusher.png)  
+![Model Pusher](assets/flowchart/Model%20Pusher.png)  
 *Diagram showing the model pusher process.*
 
 ### Component 6: Model Trainer
-![Model Trainer](assets/flowchart/Model Trainer.png)  
+![Model Trainer](assets/flowchart/Model%20Trainer.png)  
 *Diagram illustrating the model training workflow.*
-
 
 ## Table of Contents
 
