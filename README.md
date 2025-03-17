@@ -9,10 +9,6 @@ This is a client-based project developed at **i-Neuron** where I actively partic
 - **ScreenShot**  
   ![Web InterFace](assets/image/project_overview_image.png)
 
-- ## Demo Video
-
-Please [click here to view the demo video](assets/video/project_demo_video.mp4).
-
 ## MLOps Architecture Flowcharts
 
 The following flowcharts represent each component of our MLOps architecture.
